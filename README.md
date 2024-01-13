@@ -1,1 +1,7 @@
-# Mr-kasim-aa
+# Mr-kasim-aaecho "# Mr-kasim" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/6397807332/Mr-kasim.git
+git push -u origin main
